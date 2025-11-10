@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.blank{
+  background-color: red;
+  color: white;
+  width: 100px;
+  border-radius: 10%;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 100px;
+  margin-left: 200px
+  /* padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center; */
+/* } */ 
